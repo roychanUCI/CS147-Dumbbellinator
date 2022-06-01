@@ -23,7 +23,7 @@ char ssid[] = "iPhone";
 char pass[] = "iloveturtles";
 
 // Name of the server we want to connect to
-const char kHostname[] = "http://54.183.233.7:5000/";
+const char kHostname[] = "http://54.183.233.7:5000/post";
 // const int kPort = 5000;
 // Path to download (this is the bit after the hostname in the URL
 // that you want to download
